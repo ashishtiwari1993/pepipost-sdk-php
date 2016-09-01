@@ -87,6 +87,7 @@ $data = array(
         'opentrack'     =>  true,
         'unsubscribe'   =>  true,
         'bcc'           =>  'bcc@example.com',
+        'template'      =>  '123',
     ),
     'attributes' => array(
         'NAME'          => array('NameOfRecipient1','NameOfRecipient2'),
